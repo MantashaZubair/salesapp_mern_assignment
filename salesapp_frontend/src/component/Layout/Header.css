@@ -1,0 +1,10 @@
+.navbar-brand{
+    color: #fff !important;
+}
+.nav-link{
+    font-size: 1.1rem;
+    color: rgb(156, 197, 243) !important;
+}
+.nav-link:hover{
+    color: #fff !important;
+}
